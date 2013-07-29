@@ -1,0 +1,40 @@
+{
+  "auto_complete_commit_on_tap": true,
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"disable_tab_abbreviations": true,
+	"fade_fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"reveal-on-activate": true,
+	"scroll_past_end": true,
+	"spell_check": true,
+	"theme": "Nexus.sublime-theme",
+	"todo":
+	{
+		"file_exclude_patterns":
+		[
+			"tiny_mce",
+			"jquery-ui"
+		],
+		"folder_exclude_patterns":
+		[
+			"blog",
+			".sass-cache"
+		]
+	},
+	"trim_trailing_white_space_on_save": true
+}
