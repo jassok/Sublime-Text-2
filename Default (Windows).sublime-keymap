@@ -1,0 +1,8 @@
+[
+  { "keys": ["ctrl+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["ctrl+backspace"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete to Hard BOL.sublime-macro"} },
+	{ "keys": ["ctrl+delete"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete to Hard EOL.sublime-macro"} },
+	{ "keys": ["ctrl+shift+u"], "command": "sftp_upload_file" }
+
+]
