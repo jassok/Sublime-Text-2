@@ -1,0 +1,20 @@
+{
+  "caret_style": "phase",
+	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+	"disable_tab_abbreviations": true,
+	"font-face": "inconsolata",
+	"font_size": 11.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_green": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"theme": "Phoenix Dark.sublime-theme"
+}
